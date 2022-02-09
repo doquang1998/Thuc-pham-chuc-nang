@@ -479,10 +479,11 @@ ul.sub-menu {
     margin-left: 0;
 }
 .item h1 {
-    color: #b4b1ab;
-    font-family: abel;
+    color: #1d605a;
+    font-family: roboto, sans-serif;
     font-size: 48px;
     margin-top: 115px;
+    font-weight: normal;
 }
 .item h1 span {
     color: #fe980f;
