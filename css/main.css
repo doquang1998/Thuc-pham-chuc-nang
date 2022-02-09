@@ -592,11 +592,10 @@ h2.title:before {
     padding: 5px 20px;
 }
 .category-products .panel-default .panel-heading .panel-title a {
-    color: #696763;
+    color: #363432;
     font-family: roboto, sans-serif;
     font-size: 14px;
     text-decoration: none;
-    text-transform: uppercase;
 }
 .panel-group .panel-heading + .panel-collapse .panel-body {
     border-top: 0;
