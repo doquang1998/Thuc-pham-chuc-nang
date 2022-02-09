@@ -1283,6 +1283,18 @@ h2.title {
     border: 1px solid #e6e4df;
     margin-bottom: 50px;
 }
+.tab_detail{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px 0;
+    font-size: 16px;
+    font-family: roboto, sans-serif;
+    color: #000;
+}
+.description-detail-product{
+    padding: 0 15px;
+}
 #cart_items .cart_info .cart_menu {
     background: #fe980f;
     color: #fff;
