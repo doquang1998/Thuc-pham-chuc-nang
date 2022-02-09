@@ -47,6 +47,17 @@ a#scrollUp {
     -webkit-animation: bounce 2s ease infinite;
     animation: bounce 2s ease infinite;
 }
+.logo-header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+.title-logo{
+    font-size: 20px;
+    color: #0083c9;
+    text-transform: uppercase;
+}
 a#scrollUp i {
     font-size: 30px;
 }
